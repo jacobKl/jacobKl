@@ -1,10 +1,8 @@
-### Hi there 👋
-I'm Developer located in Krakow - Poland. Currently working as a front end developer, I'm coding designs and templates to our corporate CMS.
-I'm mainly focused on Front End - especially React, but I also know the basics of backend ( express / php ).
+### Cześć 👋
+Nazywam się Kuba i jestem FullStack Developerem ulokowanym w Krakowie. Na codzień pracuję w PHP oraz Javascript'cie. 
+[Portfolio](https://jakub-klimek.netlify.app)
+[Linkedin](https://www.linkedin.com/in/jakub-klimek-b643071b1/)
 
-Currently learning in high school with IT specialization. I will be honored if You will give me tips / scroll through my projects! (I'm begginer, code review is always wanted 😅)
-
-Cheers! 🍒🍒🍒
 
 <!--
 **jacobKl/jacobKl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
