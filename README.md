@@ -1,6 +1,8 @@
 ### Cześć 👋
 Nazywam się Kuba i jestem FullStack Developerem ulokowanym w Krakowie. Na codzień pracuję w PHP oraz Javascript'cie. 
+
 [Portfolio](https://jakub-klimek.netlify.app)
+
 [Linkedin](https://www.linkedin.com/in/jakub-klimek-b643071b1/)
 
 
